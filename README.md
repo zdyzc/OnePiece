@@ -52,7 +52,7 @@
 欢迎通过以下方式与我互动：
 
 - 📮 616662878@qq.com邮箱
-- 🟩 微信：[ZdYzc02](OnePiece/assets/image/wechat.jpg)
+- 🟩 微信：[ZdYzc02](assets/image/wechat.jpg)
 - 💬 关注我：[GitHub @zdyzc](https://github.com/zdyzc)
   🌐 博客主页正在建设中，敬请期待！
 
